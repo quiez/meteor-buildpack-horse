@@ -1,7 +1,8 @@
 #!/bin/sh
 
 VERSION=1.9.7
-PHANTOM_URL="https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-$VERSION-linux-x86_64.tar.bz2"
+#PHANTOM_URL="https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-$VERSION-linux-x86_64.tar.bz2"
+PHANTOM_URL="https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-linux-i686.tar.bz2"
 
 echo "-----> Installing phantomjs."
 # Just extract the one file (the binary) and not all the examples/readme's/etc.
